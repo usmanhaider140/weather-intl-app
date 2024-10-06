@@ -1,0 +1,12 @@
+{
+  "WeatherAlerts": {
+    "title": "تقص نكست چى إس"
+  },
+  "Header": {
+    "appTitle": "تقص نكست چى إس",
+    "navLinks": {
+      "week": "هذا الأسبوع",
+      "about": "نبذة عنا"
+    }
+  }
+}
